@@ -109,3 +109,14 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 
 <br/>
+
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote">
+</p>
+
+<br/>
