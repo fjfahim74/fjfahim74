@@ -82,3 +82,30 @@
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+
+
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+
+<br/>
+
+
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
+<br/>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+
+<br/>
