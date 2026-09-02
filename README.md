@@ -21,7 +21,7 @@
 - 🏆 I’m a **Hackathon Champion** and enjoy working on projects with a team.
 - 🌱 My goal is to continuously learn, build and grow as a software developer.
 
-
+<br/>
 <!--- socials --->
 
 ## 🌐 CONNECT WITH ME
