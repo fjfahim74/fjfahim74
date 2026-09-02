@@ -69,12 +69,12 @@
 
 <br/>
 
-<!--- random dev quote --->
+<!--- random quote --->
 
-## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"><b> RANDOM DEV QUOTE:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
 
 <br/>
@@ -84,50 +84,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
 
-
-<!--- random quote --->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-
-<br/>
-
-
-
-<!--- random quote --->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
-<br/>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-
-<br/>
-
-
-<!--- random quote --->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote">
-</p>
-
-<br/>
-
-
-<!--- random quote --->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote">
-</p>
-
-<br/>
