@@ -24,7 +24,7 @@
 
 <!--- socials --->
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"><b> CONNECT WITH ME:</b>
+## 🌐 CONNECT WITH ME
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fjfahim74/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/FJFahim3)
