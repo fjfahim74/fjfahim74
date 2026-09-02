@@ -71,7 +71,7 @@
 
 <!--- random dev quote --->
 
-## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"><b> RANDOM DEV QUOTE:</b>
+## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
