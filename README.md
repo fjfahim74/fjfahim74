@@ -71,7 +71,7 @@
 
 <!--- random quote --->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"><b> RANDOM DEV QUOTE:</b>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
