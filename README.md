@@ -54,29 +54,6 @@
 
 <br/>
 
-
-<!--- github stats --->
-
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> GITHUB STATS:</b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjfahim74&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjfahim74&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjfahim74&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-
-
 <!--- contribution snake --->
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> CONTRIBUTION SNAKE:</b>
