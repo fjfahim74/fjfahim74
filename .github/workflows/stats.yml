@@ -1,4 +1,3 @@
-
 name: Generate GitHub Stats
 
 on:
@@ -32,45 +31,93 @@ jobs:
           FOLLOWERS=$(gh api "users/$USER" --jq '.followers')
           FOLLOWING=$(gh api "users/$USER" --jq '.following')
 
-          COMMITS=$(gh api --paginate "search/commits?q=author:$USER" \
-            --jq '.total_count' | head -1)
-
           cat > stats/github-stats.svg <<EOF
-          <svg xmlns="http://www.w3.org/2000/svg" width="495" height="220" viewBox="0 0 495 220">
-            <style>
-              .title { font: 600 20px Arial, sans-serif; fill: #58a6ff; }
-              .label { font: 600 15px Arial, sans-serif; fill: #8b949e; }
-              .value { font: 700 22px Arial, sans-serif; fill: #f0f6fc; }
-              .box { fill: #0d1117; stroke: #30363d; }
-            </style>
+          <svg xmlns="http://www.w3.org/2000/svg" width="600" height="250">
+            <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
 
-            <rect x="1" y="1" width="493" height="218" rx="10" class="box"/>
+            <text x="30" y="45"
+              font-family="Arial"
+              font-size="22"
+              font-weight="bold"
+              fill="#58a6ff">
+              Fahim's GitHub Stats
+            </text>
 
-            <text x="25" y="38" class="title">Fahim's GitHub Stats</text>
+            <text x="40" y="95"
+              font-family="Arial"
+              font-size="15"
+              fill="#8b949e">
+              PUBLIC REPOSITORIES
+            </text>
 
-            <text x="30" y="78" class="label">Repositories</text>
-            <text x="30" y="105" class="value">$REPOS</text>
+            <text x="40" y="125"
+              font-family="Arial"
+              font-size="25"
+              font-weight="bold"
+              fill="#f0f6fc">
+              $REPOS
+            </text>
 
-            <text x="180" y="78" class="label">Followers</text>
-            <text x="180" y="105" class="value">$FOLLOWERS</text>
+            <text x="240" y="95"
+              font-family="Arial"
+              font-size="15"
+              fill="#8b949e">
+              FOLLOWERS
+            </text>
 
-            <text x="330" y="78" class="label">Following</text>
-            <text x="330" y="105" class="value">$FOLLOWING</text>
+            <text x="240" y="125"
+              font-family="Arial"
+              font-size="25"
+              font-weight="bold"
+              fill="#f0f6fc">
+              $FOLLOWERS
+            </text>
 
-            <text x="30" y="145" class="label">Commits</text>
-            <text x="30" y="172" class="value">$COMMITS</text>
+            <text x="430" y="95"
+              font-family="Arial"
+              font-size="15"
+              fill="#8b949e">
+              FOLLOWING
+            </text>
 
-            <text x="180" y="145" class="label">GitHub Profile</text>
-            <text x="180" y="172" class="value">@fjfahim74</text>
+            <text x="430" y="125"
+              font-family="Arial"
+              font-size="25"
+              font-weight="bold"
+              fill="#f0f6fc">
+              $FOLLOWING
+            </text>
 
-            <text x="30" y="202" class="label">Keep coding. Keep building. 🚀</text>
+            <text x="40" y="180"
+              font-family="Arial"
+              font-size="15"
+              fill="#8b949e">
+              GITHUB
+            </text>
+
+            <text x="40" y="210"
+              font-family="Arial"
+              font-size="18"
+              font-weight="bold"
+              fill="#58a6ff">
+              github.com/fjfahim74
+            </text>
           </svg>
           EOF
 
-      - name: Publish stats
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: stats
+      - name: Upload stats to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --single-branch --branch output \
+            https://x-access-token:${GH_TOKEN}@github.com/fjfahim74/fjfahim74.git output
+
+          cp stats/github-stats.svg output/github-stats.svg
+
+          cd output
+          git add github-stats.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
