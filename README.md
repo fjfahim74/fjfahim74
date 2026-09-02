@@ -52,7 +52,7 @@
 
 <!--- github stats --->
 
-
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F5eWJ2N3F6aW9xN2x5d3B5Z2Q0Z3B5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="35"><b> GITHUB STATS:</b>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fjfahim74&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak"/>
 </p>
