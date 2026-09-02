@@ -10,3 +10,13 @@
 </div>
 
 <br/>
+
+<!--- about --->
+
+- 👋 Hi, I’m **[@Fatiuzzaman Fahim](https://github.com/fjfahim74)**
+- 🎓 I’m a **CSE student** at **BAIUST**.
+- 💻 I’m currently learning **JavaScript, C++ and Full Stack Web Development**.
+- 🧩 I’m practicing **Data Structures & Algorithms** to improve my problem-solving skills.
+- 🚀 I’m building projects while learning and exploring new technologies.
+- 🏆 I’m a **Hackathon Champion** and enjoy working on projects with a team.
+- 🌱 My goal is to continuously learn, build and grow as a software developer.
