@@ -61,7 +61,7 @@
 
 <!--- contribution snake --->
 
-## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"><b> RANDOM DEV QUOTE:</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> CONTRIBUTION SNAKE:</b>
 
 <p align="center">
   <img src="https://github.com/fjfahim74/fjfahim74/blob/output/github-snake.svg" alt="GitHub Contribution Snake">
