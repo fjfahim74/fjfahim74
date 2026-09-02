@@ -24,7 +24,7 @@
 
 <!--- socials --->
 
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/8d7uE7c0Yk1qM/giphy.gif" width="35"><b> CONNECT WITH ME:</b>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fjfahim74/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/FJFahim3)
