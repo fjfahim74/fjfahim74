@@ -21,5 +21,23 @@
 - 🏆 I’m a **Hackathon Champion** and enjoy working on projects with a team.
 - 🌱 My goal is to continuously learn, build and grow as a software developer.
 
+
 <!--- socials --->
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fjfahim74/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/FJFahim3">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/fj_fahim_74/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram">
+  </a>
+</p>
+
+<br/>
