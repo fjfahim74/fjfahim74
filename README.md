@@ -26,20 +26,12 @@
 
 <!--- socials --->
 
+<!--- socials --->
+
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fjfahim74/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/FJFahim3">
-    <img src="https://cdn.simpleicons.org/x" width="40" height="40" alt="X">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/fj_fahim_74/">
-    <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram">
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fjfahim74/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/FJFahim3)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fj_fahim_74/)
 
 <br/>
