@@ -81,6 +81,7 @@
 
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fjfahim74&label=Profile%20Views&color=0e75b6&style=flat" alt="fjfahim74" />
+</p>
