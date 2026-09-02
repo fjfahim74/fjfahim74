@@ -35,3 +35,21 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fj_fahim_74/)
 
 <br/>
+
+<!--- technology stack --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=c,cpp,javascript)](https://github.com/fjfahim74)
+
+### Web Development:
+[![Web Development](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/fjfahim74)
+
+### Database & Services:
+[![Database & Services](https://skillicons.dev/icons?i=firebase)](https://github.com/fjfahim74)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/fjfahim74)
+
+<br/>
