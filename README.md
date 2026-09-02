@@ -34,14 +34,7 @@
 
 <!--- technology stack --->
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
-## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
-## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
-
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
-## <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=c,cpp,javascript)](https://github.com/fjfahim74)
