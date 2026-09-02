@@ -54,14 +54,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjfahim74&show_icons=true&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjfahim74&layout=compact&theme=tokyonight&hide_border=true" alt="Fahim's Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=fjfahim74&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak"/>
 </p>
 
