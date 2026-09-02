@@ -24,10 +24,6 @@
 
 <!--- socials --->
 
-<!--- socials --->
-
-<!--- socials --->
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fjfahim74/)
@@ -51,6 +47,16 @@
 
 ### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/fjfahim74)
+
+<br/>
+
+<!--- github stats --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> GITHUB STATS:</b>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fjfahim74/fjfahim74/output/github-stats.svg" alt="Fahim's GitHub Stats">
+</p>
 
 <br/>
 
