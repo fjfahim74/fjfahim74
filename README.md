@@ -44,7 +44,7 @@
 [![Languages](https://skillicons.dev/icons?i=c,cpp,javascript)](https://github.com/fjfahim74)
 
 ### Web Development:
-[![Web Development](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/fjfahim74)
+[![Web Development](https://skillicons.dev/icons?i=html,css,typescript)](https://github.com/fjfahim74)
 
 ### Database & Services:
 [![Database & Services](https://skillicons.dev/icons?i=firebase)](https://github.com/fjfahim74)
