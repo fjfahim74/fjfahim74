@@ -21,22 +21,20 @@
 - 🏆 I’m a **Hackathon Champion** and enjoy working on projects with a team.
 - 🌱 My goal is to continuously learn, build and grow as a software developer.
 
-  <!--- socials --->
+<!--- socials --->
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/fjfahim74/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://x.com/FJFahim3" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/fj_fahim_74/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
-    </a>
-  </p>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fjfahim74/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://x.com/FJFahim3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="30" width="40">
+  </a>
+  <a href="https://www.instagram.com/fj_fahim_74/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40">
+  </a>
+</p>
 
-<br/> 
+<br/>
